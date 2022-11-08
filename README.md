@@ -6,7 +6,7 @@ Azure Static Web Apps es un servicio de Azure que permite crear aplicaciones web
 Hola, este es un ejemplo de una aplicación web estática alojada en Azure Static Web Apps.
 Para clonar este repositorio, ejecuta el siguiente comando:
 ```bash
-git clone https://github.com/dagp-ucol/week-8-azure-static-web.git
+git clone {url}
 ```
 
 ## Forkea este repositorio
